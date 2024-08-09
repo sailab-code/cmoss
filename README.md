@@ -1,6 +1,19 @@
-# Anonymous submission
+<div align="center">
+  
+  <div>
+  <h1>Bridging Continual Learning of Motion and Self-Supervised Representations</h1>
+  </div>
 
-Paper Title: **Bridging Continual Learning of Motion and Self-Supervised Representations**
+  <div>
+      Matteo Tiezzi* &emsp; Simone Marullo* &emsp; Alessandro Betti &emsp;  Michele Casoni &emsp; Stefano Melacci
+  </div>
+  <br/>
+
+</div>
+
+This is the code for the paper title **Bridging Continual Learning of Motion and Self-Supervised Representations** published in the ECAI 2024 conference (DOI to be announced).
+
+![alt text](cmoss/cmoss.png "Continual MOtion-based Self-Supervised Learning")
 
 
 CODE REPOSITORY CONTENTS
@@ -16,6 +29,9 @@ Concerning real-world videos (Horse and Rat), preprocessed files are available a
     runner.py :             experiments runner for 3D-generated streams
     runner_sparse.py :      experiments runner for real-world videos
     best_cmoss_runs.txt :   command lines (and parameters) to reproduce the main results
+    cmoss_suppl.pdf :       paper supplementary materials
+
+	
 
 REPRODUCE PAPER RESULTS
 -----------------------
