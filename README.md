@@ -11,7 +11,7 @@
 
 </div>
 
-This is the code for the paper title **Bridging Continual Learning of Motion and Self-Supervised Representations** published in the ECAI 2024 conference (DOI to be announced).
+This is the code for the paper  **Bridging Continual Learning of Motion and Self-Supervised Representations** published in the ECAI 2024 conference (DOI to be announced).
 
 ![alt text](cmoss/cmoss.png "Continual MOtion-based Self-Supervised Learning")
 
